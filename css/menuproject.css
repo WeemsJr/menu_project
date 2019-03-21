@@ -1,0 +1,163 @@
+body {
+    background-color: gold;
+}
+
+.topbar li{
+    display: inline;
+    padding: 10px;
+    margin-right: 10px;
+
+}
+
+.topbar{
+    background: #454545;
+    color: silver;
+
+}
+
+.fa-facebook {
+    color: #454545;
+    font-size: 20px;
+    background: silver;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.fa-instagram{
+    color: silver;
+    font-size: 20px;
+    background: #5c5c5c;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.fa-twitter-square{
+    color: silver;
+    font-size: 20px;
+    background: #5c5c5c;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+.midbar li{
+    display: inline;
+    padding: 5px;
+    color:silver;
+}
+
+
+.midbar{
+    background: #5c5c5c;
+    color: silver;
+    padding: 20px;
+}
+
+
+.midbar a{
+    color: silver;
+    padding: 25px;
+}
+
+
+i{
+    border: solid silver;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+
+}
+
+
+.down {
+    transform: rotate(49deg);
+    -webkit-transform: rotate(45deg);
+}
+
+.topbar2 li{
+    display: inline;
+    padding: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+.topbar2 {
+    background-color: #e64a3c;
+    margin-top: 40px;
+}
+
+.midbar2 {
+    background: whitesmoke;
+    padding-top: 40px;
+}
+
+.midbar2 li{
+    display: inline;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    margin-right: 10px;
+    color: grey;
+}
+
+.midbar2 a{
+    color: black;
+
+}
+
+.midbar2:hover li{
+    color: #e64a3c;
+}
+
+
+.topbar3 {
+    margin-top: 60px;
+    background-color: #fafafa;
+}
+
+.topbar3 li{
+    display: inline;
+    padding: 12px;
+    margin-right: 10px;
+}
+
+.midbar3{
+    text-align: center;
+    height: 90px;
+    padding: 50px;
+}
+
+.bottombar3 li{
+    display: inline;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.bottombar3{
+    background-color: #fafafa;
+    padding: 10px;
+    margin-right: 10px;
+
+
+}
+
+.bottombar3 a{
+    color: black;
+}
+
+.bottombar3:hover li{
+    background-color: #e64a3c;
+}
+
+
+.topbar4 li{
+    display: inline;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.midbar4 li{
+    display: inline;
+    padding-right: 30px;
+    
+
+}
